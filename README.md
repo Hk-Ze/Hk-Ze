@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/euMGM3uD3NHva/giphy.gif" width="300px"/><img src="https://media.giphy.com/media/euMGM3uD3NHva/giphy.gif" width="300px"/><img src="https://media.giphy.com/media/euMGM3uD3NHva/giphy.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/euMGM3uD3NHva/giphy.gif" width="300px"/><img src="https://media.giphy.com/media/euMGM3uD3NHva/giphy.gif" width="300px"/>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center">
