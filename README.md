@@ -5,3 +5,5 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Hk-Ze&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) "height="200px"/>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" width="300px"/>
